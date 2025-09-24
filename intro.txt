@@ -1,0 +1,1 @@
+This is a sample coding of the congating the readable data and adding to another data in node js.
